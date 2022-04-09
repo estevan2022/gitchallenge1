@@ -33,8 +33,20 @@ header a {
     font-size: large;
 }
 
+.hero {
+   background-image: url(./assets/images/digital-marketing-meeting.jpg);
+   height: 800px;
+   margin-bottom: 25px;
+   background-position: center;
+   background-size: cover;
+}
+
 .seo {
     color: #d9dcd6;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
 }
 
 .header div {
@@ -54,14 +66,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
+
 
 .float-left {
     float: left;
